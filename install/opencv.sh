@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 CWD=`pwd`
-VERSION=4.0.1
+VERSION=3.4.14
 
 git clone https://github.com/opencv/opencv.git opencv3
 git clone https://github.com/opencv/opencv_contrib.git opencv3_contrib
